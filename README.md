@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-- 🌱 I’m currently learning **NextJS,SpringBoot**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **React,Express,MongoDB,MySQL**
 
