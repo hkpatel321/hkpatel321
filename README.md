@@ -168,7 +168,7 @@
 | Platform | Handle | Focus |
 |:---:|:---:|:---:|
 | 🟡 **LeetCode** | [het_patel485](https://www.leetcode.com/het_patel485) | DSA · Algorithms |
-| 🔵 **Codeforces** | [iron_man321](https://codeforces.com/profile/iron_man321) | Competitive Rating |
+| 🔵 **Codeforces** | [het_patel485](https://codeforces.com/profile/het_patel485) | Competitive Rating |
 | 🟢 **GeeksforGeeks** | [phet34jh8](https://auth.geeksforgeeks.org/user/phet34jh8) | Core CS Concepts |
 
 </div>
